@@ -20,4 +20,4 @@ To install, simply place the SMX file in your `addons/sourcemod/plugins` directo
 
 ## License
 
-* [GNU GPLv3](https://gitlab.com/rGlobalOffensive/Argo-Server-Query-Tool/blob/6aef726fc6134cb50a2cb9a768ef439c2e7a56e3/LICENSE)
+* [GNU GPLv3](https://github.com/ericwoolard/ASQT-Pug-Stats/blob/master/LICENSE)
